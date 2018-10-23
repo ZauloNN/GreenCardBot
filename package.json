@@ -1,0 +1,11 @@
+{
+  "name": "greencard",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "ZauloNN",
+  "license": "ISC"
+}
